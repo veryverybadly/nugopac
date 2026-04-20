@@ -30,3 +30,10 @@ dotnet run
 а ес хочешь собрать 
 
 dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:PublishReadyToRun=true /p:IncludeNativeLibrariesForSelfExtract=true
+
+# отдельный PRIVET передаю зенусусву и его чату в тг
+вот тут зайти 
+
+https://t.me/+pFAknEtZlO1iOTYy
+
+тут
