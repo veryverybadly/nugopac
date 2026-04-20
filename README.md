@@ -17,3 +17,16 @@ simple пхото увшещк
 1. **хз не шарю.**
 2. **Запустить `NugopacEditor.exe`.**
 3. **Кайфовать от члена в жопе.** *(Классический экспириенс линуксоида).*
+
+##  ааа если ты хочешь повозиться с вайбкодом или пЕРЕПИСАТЬ МАТЬ ЕГО ПИДОРАСА
+поставь пакеты сначал
+
+dotnet add package SixLabors.ImageSharp
+
+и потом рань 
+
+dotnet run
+
+а ес хочешь собрать 
+
+dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:PublishReadyToRun=true /p:IncludeNativeLibrariesForSelfExtract=true
