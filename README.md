@@ -37,3 +37,6 @@ dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=
 https://t.me/+pFAknEtZlO1iOTYy
 
 тут
+
+<img width="528" height="273" alt="изображение" src="https://github.com/user-attachments/assets/fe84e0c1-051c-401d-ac5a-77c5e974c6bf" />
+
